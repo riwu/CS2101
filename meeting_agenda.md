@@ -13,3 +13,11 @@ Meeting Agenda
 ####Ruomu:
 - Delegating made according to the phases of an interview(prepare, during interview, follow-up)
 - Or by the type of interview (business, academic, technical)
+
+###Julian:
+(Probably would have enough time for discussion of 2103T project)
+-Discuss and decide upon bucket we are aiming for.
+-Delegation for software functionalities -> which part to be worked upon by whom
+-Milestone deadlines
+-Set agenda for future meetings
+-Consideration of our features list
