@@ -10,3 +10,6 @@ Meeting Agenda
 - Dress code for the actual presentation (We might want to coordinate for presentation)
 - Do some research on different possible areas of interview skills that we can split into(might need to prepare this before class)
 
+####Ruomu:
+- Delegating made according to the phases of an interview(prepare, during interview, follow-up)
+- Or by the type of interview (business, academic, technical)
