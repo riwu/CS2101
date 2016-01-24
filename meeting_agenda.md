@@ -16,8 +16,8 @@ Meeting Agenda
 
 ###Julian:
 (Probably would have enough time for discussion of 2103T project)
--Discuss and decide upon bucket we are aiming for.
--Delegation for software functionalities -> which part to be worked upon by whom
--Milestone deadlines
--Set agenda for future meetings
--Consideration of our features list
+- Discuss and decide upon bucket we are aiming for.
+- Delegation for software functionalities -> which part to be worked upon by whom
+- Milestone deadlines
+- Set agenda for future meetings
+- Consideration of our features list
