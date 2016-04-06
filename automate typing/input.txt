@@ -1,4 +1,8 @@
-100
-line1 here
-line2 here
-line3 here
+200
+Read books
+Meet friend Saturday 12pm
+Do work Sunday 23:59 1w
+d 2
+e 1 thurs
+e 1 7pm
+e 2 3d
