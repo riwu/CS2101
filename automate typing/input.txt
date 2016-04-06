@@ -1,4 +1,4 @@
-100
+50
 Read books
 Listen to music
 Watch a movie
@@ -8,4 +8,8 @@ Do everything tomorrow
 Meeting 3pm
 Run errands Sunday 10am-12pm
 Do work Sunday 23:59 1w
+d 4
 Go for yoga lessons Sat 10am 1w 31/5
+e 5 sat
+e 3 7pm
+e 6 3d
