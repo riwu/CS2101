@@ -13,3 +13,18 @@ Go for yoga lessons Sat 10am 1w 31/5
 e 5 sat
 e 3 7pm
 e 6 3d
+c 8
+c 10
+c 2
+c 2
+d 2
+d <11/4
+u
+d <11/4
+meet with Alice 15/5/16
+play badminton 13/4/16
+book airticket to Beijing 14/4/16
+Alice Bob Eve analysis 5/5/16
+Write to Aaron 6/6/16
+Dentist appointment 21/4/16
+f Alice
