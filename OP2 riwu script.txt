@@ -1,10 +1,9 @@
-Good afternoon everyone, i am Riwu, and these are the amazing teammates that i'm fortunate to work with for the past few months.
-we here today to introduce an amazing software product that could revolutionise your life.
+Good afternoon everyone, i am Riwu. I am here today, together with my colleagues, to introduce an amazing software product that will revolutionise your life.
 
 Before i do that, i'd like to ask all of you a question: 
 (click)
 
-how many things do you think your mind can hold in working memory?
+how many objects do you think your mind can hold in working memory?
 (some high counts) sorry to disappoint you
 (below 10) you are absolutely right!
 
@@ -12,55 +11,52 @@ According to a famous psychological research,
 (click)
 
 commonly known as Miller's law, an average person can only hold about 7 objects in working memory!
-
-Now, try to briefly estimate the number of tasks you have to do every day. What about every week? every month?
-Needless to say, it is humanly impossible to ensure that you remember all of them.
-
-So, what i personally did initially was to use the notepad application to record my tasks. However, it quickly becomes disorganised and hard to read as my list of tasks growed.
-
-So i decided to search for a to-do list to manage my tasks instead. 
-To date, i have tried multitude of popular to-do lists in the market. Unfortunately, none of them meets my expectation.
-Most of them are unstable, overly complex or too cumbersome to use that i find even the notepad application far more superior.
-Let me briefly show you one of the product, any.do
-(demo a recur task)
- 
-I asked my colleagues for recommendation and apparently they share the same sentiments as me.
-
-After the repeated failures and agony of finding a suitable to-do app, we had finally given up my search.
-
-We decided to create a simple and reliable app ourself instead.
-
-After months of tremendous effort, i am glad to say that we have develop a much more superior app that doesn't have any of the problems from the existing apps.
 (click)
+Now, try to estimate the number of tasks you have to do every day. What about every week? every month?
+(click)
+Needless to say, it is humanly impossible to ensure that you remember all of them.
+(click)
+
+So, initially i used the notepad app to record my tasks. 
+(click)
+However, it quickly became disorganised and hard to read as my tasklist growed.
+
+So i decided to search for a to-do list to manage my tasks instead.
+(click)
+To date, i have tried multitude of popular to-do lists in the market. Unfortunately, none of them meet my expectation.
+Most of them are unstable, overly complex or so cumbersome to use that even the notepad app is far more superior.
+Let me briefly show you one of the product, any.do
+Let's say i want to add a task, workout every fri 3pm.
+i will have to click on the add button, type in description, click on the date, select friday, adjust the time, click ok, add the task, locate this small button, select weekly, and finally press ok.
+
+(sigh) How i wish i could do all of these in a single step!
+Well, wishes dont usually come true, but mine did!
 
 Let me now introduce our product: WURI.
 (click)
-WURI is a todo list application that allows you to perform a myriad of operations, just by typing commands through the input box here.
+WURI is a todo list app that allows you to perform a myriad of operations, just by typing commands through the input box here.
 
 You easily add a task, with the option to specify the date or time. 
 
-Your list will be conveniently sorted by date so that you know what tasks to focus on first at one glance.
+Your list will be conveniently sorted by date so that you know what tasks to focus on at one glance.
 
-Tasks with no date specified will be segregated to be displayed on a separate column here.
+Tasks with no date specified will be displayed on a separate column here.
 
-You can also set a task to recur at various intervals.
-
-The application also allows you to modify and search tasks, undo and redo operations.
-
-My team will elaborate on all these functionalities later.
+My team will elaborate on these functionalities and many more later.
 
 Now, i would like to shift your attention to some core features that the existing products lack.
+(click)
 
 Firstly, our product is completely free and open source. Open source means that the source code, or in layman terms, the blueprint of the product is available to the public. 
 (click)
 This means that our product is absolutely safe and free of virus, as that would be easily detected with the source code. 
 (click)
-As an open source project hosted on Github, it also mean that the product will be continually developed by anyone willing to contribute even if the original developers abandon the product. 
+the product will also be continuous developed by anyone willing to contribute even if the original team abandon the product. 
 (click)
 The product will therefore never become obsolete and anyone can customise it to suit their needs.
 (click)
 
-Our product can run on any machine with Java, which is a well-known application that can be easily downloaded at java.com, though chances are you already have it on your computer. 
+Next, Our product can run on any machine with Java, which is a well-known application that can be easily downloaded at java.com, though chances are you already have it on your computer. 
 (click)
 
 This means it can run on almost any platform, including Windows, Linux and Mac.
@@ -75,19 +71,19 @@ Do not panic, this is intentional. I'm sure all of you are familiar with the blu
 By saving the tasklist to the file, it will be safe even in the event of a crash, unless your harddisk gets corrupted, which is very unlikely. But if u want to eliminate that risk as well, you could always set the storage path to your cloud storage folder, such as dropbox or google drive. Shaun will elaborate on that later.
 (click)
 
-Now, you may ask, if task list is saved to the file so frequently, will the application be slow? 
+Now, you may ask, if task list is saved to the file so frequently, will the app be slow? 
 (click)
-Do not worry, we have anticipated this problem and designed the product such that the updated task list and the feedback is displayed first before the saving is performed. 
+Not to worry, we have anticipated this problem and designed the product such that the updated task list and the feedback are displayed first before the saving is performed. 
 (click)
 Hence you will not notice any delay at all!
 
 Moving on to the last core feature i want to highlight...
 (click)
-Ever find it frustrating that one of your hand has to constantly alternate between the mouse and the keyboard to use an application?
+Ever find it frustrating that one of your hand has to constantly alternate between the mouse and the keyboard to use an app?
 (click)
 Our product is designed with it being completely mouse independent in mind. The keyboard is all you need to operate it.
 
-Now you might be getting anxious: if all actions are performed using only the keyboard, would i have to type a lot of additional keywords to perform an operation? 
+Now you might be getting anxious: if all operation are performed using only the keyboard, would i have to type a lot of additional keywords to perform an operation? 
 (click)
 
 Fret not, our product is designed such that you have to type a minimal of additional keywords.
