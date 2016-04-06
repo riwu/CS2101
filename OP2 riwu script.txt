@@ -1,4 +1,4 @@
-Good afternoon everyone, i am Riwu. I am here today, together with my colleagues, to introduce an amazing software product that will revolutionise your life.
+Good afternoon everyone, i'm Riwu. I am here today, together with my colleagues, to introduce an amazing software product that will revolutionise your life.
 
 Before i do that, i'd like to ask all of you a question: 
 (click)
@@ -37,10 +37,9 @@ Let me now introduce our product: WURI.
 WURI is a todo list app that allows you to perform a myriad of operations, just by typing commands through the input box here.
 
 You easily add a task, with the option to specify the date or time. 
+Tasks with no date specified will be displayed on a separate column here.
 
 Your list will be conveniently sorted by date so that you know what tasks to focus on at one glance.
-
-Tasks with no date specified will be displayed on a separate column here.
 
 My team will elaborate on these functionalities and many more later.
 
@@ -49,9 +48,9 @@ Now, i would like to shift your attention to some core features that the existin
 
 Firstly, our product is completely free and open source. Open source means that the source code, or in layman terms, the blueprint of the product is available to the public. 
 (click)
-This means that our product is absolutely safe and free of virus, as that would be easily detected with the source code. 
+This means that our product is absolutely safe and free of virus, as that would be easily detected from the source code. 
 (click)
-the product will also be continuous developed by anyone willing to contribute even if the original team abandon the product. 
+the product will also be continuously developed by anyone willing to contribute even if the original team abandon the product. 
 (click)
 The product will therefore never become obsolete and anyone can customise it to suit their needs.
 (click)
@@ -83,9 +82,9 @@ Ever find it frustrating that one of your hand has to constantly alternate betwe
 (click)
 Our product is designed with it being completely mouse independent in mind. The keyboard is all you need to operate it.
 
-Now you might be getting anxious: if all operation are performed using only the keyboard, would i have to type a lot of additional keywords to perform an operation? 
+Now you might be getting anxious: if all operation are performed using only the keyboard, would i have to type a lot of  keywords to perform an operation? 
 (click)
 
-Fret not, our product is designed such that you have to type a minimal of additional keywords.
-Not only are our commands single letter,  To add a task, you do not need to specify any keyword at all!
+Fret not, our product is designed such that you have to type a minimal of keywords.
+Not only are our keywords single letter,  To add a task, you do not need to specify any keyword at all!
 Dont believe me? i will pass on to Julian to demonstrate the product.
