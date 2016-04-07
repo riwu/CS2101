@@ -12,8 +12,10 @@ According to a famous psychological research,
 
 commonly known as Miller's law, an average person can only hold about 7 objects in working memory!
 (click)
-Now, try to estimate the number of tasks you have to do every day. What about every week? every month?
+Now, try to estimate the number of tasks you have to do every day. 
 (click)
+
+What about every week? every month?
 Needless to say, it is humanly impossible to ensure that you remember all of them.
 (click)
 
@@ -31,14 +33,19 @@ i will have to click on the add button, type in description, click on the date, 
 
 (sigh) How i wish i could do all of that in a single step!
 Well, my wishes dont usually come true, but this time it did!
+(click)
 
 Let me now introduce our product: WURI.
 (click)
-WURI is a todo list app that allows you to perform a myriad of operations, just by typing commands through the input box here.
+WURI is a todo list app that allows you to perform a myriad of operations, 
+(click)
+
+just by typing commands through the input box here.
 
 You easily add a task, with the option to specify the date or time. 
+(click)
 Tasks with no date specified will be displayed on a separate column here.
-
+(click)
 Your list will be conveniently sorted by date so that you know what tasks to focus on at one glance.
 
 My team will elaborate on these functionalities and many more later.
