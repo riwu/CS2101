@@ -17,9 +17,9 @@ Now, try to estimate the number of tasks you have to do every day. What about ev
 Needless to say, it is humanly impossible to ensure that you remember all of them.
 (click)
 
-So, initially i used the notepad app to record my tasks. 
+So, what i did was to the notepad app to record my tasks. 
 (click)
-However, it quickly became disorganised and hard to read as my tasklist growed.
+However, it becomes disorganised and hard to read as my tasklist increases.
 
 So i decided to search for a to-do list to manage my tasks instead.
 (click)
@@ -29,8 +29,8 @@ Let me briefly show you one of the product, any.do
 Let's say i want to add a task, workout every fri 3pm.
 i will have to click on the add button, type in description, click on the date, select friday, adjust the time, click ok, add the task, locate this small button, select weekly, and finally press ok.
 
-(sigh) How i wish i could do all of these in a single step!
-Well, wishes dont usually come true, but mine did!
+(sigh) How i wish i could do all of that in a single step!
+Well, my wishes dont usually come true, but this time it did!
 
 Let me now introduce our product: WURI.
 (click)
@@ -67,7 +67,7 @@ Of course, our product is so stable that it will never crash, so why bother with
 (click)
 
 Do not panic, this is intentional. I'm sure all of you are familiar with the blue screen of death. While our product is guarenteed not to fail, i cant say the same for your computer or your home electricity.
-By saving the tasklist to the file, it will be safe even in the event of a crash, unless your harddisk gets corrupted, which is very unlikely. But if u want to eliminate that risk as well, you could always set the storage path to your cloud storage folder, such as dropbox or google drive. Shaun will elaborate on that later.
+By saving the tasklist to the file, you will not lose your data even in the event of a crash, unless your harddisk gets corrupted, which is very unlikely. But if u want to eliminate that risk as well, you could always set the storage path to your cloud storage folder, such as dropbox or google drive. Shaun will elaborate on that later.
 (click)
 
 Now, you may ask, if task list is saved to the file so frequently, will the app be slow? 
@@ -82,7 +82,7 @@ Ever find it frustrating that one of your hand has to constantly alternate betwe
 (click)
 Our product is designed with it being completely mouse independent in mind. The keyboard is all you need to operate it.
 
-Now you might be getting anxious: if all operation are performed using only the keyboard, would i have to type a lot of  keywords to perform an operation? 
+Now you might be getting anxious: if all operation are performed using only the keyboard, will i have to type a lot of  keywords to perform an operation? 
 (click)
 
 Fret not, our product is designed such that you have to type a minimal of keywords.
