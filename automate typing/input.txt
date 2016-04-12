@@ -12,7 +12,7 @@ e 3 7pm
 e 2 today-2week
 e 4 6pm-10pm
 e 1 tmr-nyear 7pm-11pm
-e 3 do homework today-nweek 9am-5pm
+e 3 sports meeting today-nweek 9am-5pm
 c 1
 c 2
 d 2
@@ -29,7 +29,11 @@ d <1/5
 u
 u
 u
-f Alice
+f r
+f music
+f meet
+f meeting sports
+f ru err
 Go for yoga lessons Sat 10am 1w 31/5
 Do work Sunday 23:59 1w
 e 6 3d
