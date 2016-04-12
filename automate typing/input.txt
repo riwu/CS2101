@@ -1,15 +1,18 @@
 125
-Listen to music
-Meet friend nSaturday
-Overseas trip 30/4
-Meeting 3pm
-Read books today-nyear
-Run errands Sunday 10:00-12:00
-Work on proposal tmr-nmonth 09:30-17:45
+listen to music
+meet friend nSaturday
+overseas trip 30/4
+meeting 3pm
+read books today-nyear
+run errands Sunday 10:00-12:00
+work on proposal tmr-nmonth 09:30-17:45
+e 1 mow lawn
 e 5 sat
 e 3 7pm
 e 2 today-2week
 e 4 6pm-10pm
+e 1 tmr-nyear 7pm-11pm
+e 3 do homework today-nweek 9am-5pm
 c 1
 c 2
 d 2
