@@ -1,18 +1,16 @@
-50
-Read books
+100
 Listen to music
-Watch a movie
 Meet friend next Saturday
 Overseas trip 30/4
-Do everything tomorrow
 Meeting 3pm
+Read books today-nyear
 Run errands Sunday 10am-12pm
-Do work Sunday 23:59 1w
-d 4
-Go for yoga lessons Sat 10am 1w 31/5
+Work on proposal today-nmonth 9am-5pm
 e 5 sat
 e 3 7pm
-e 6 3d
+e 2 today-2week
+e 4 6pm-10pm
+d 4
 c 8
 c 10
 c 2
@@ -28,3 +26,6 @@ Alice Bob Eve analysis 5/5/16
 Write to Aaron 6/6/16
 Dentist appointment 21/4/16
 f Alice
+Go for yoga lessons Sat 10am 1w 31/5
+Do work Sunday 23:59 1w
+e 6 3d
