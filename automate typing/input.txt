@@ -26,12 +26,6 @@ d <1/5
 u
 u
 u
-meet with Alice 15/5/16
-play badminton 13/4/16
-book airticket to Beijing 14/4/16
-Alice Bob Eve analysis 5/5/16
-Write to Aaron 6/6/16
-Dentist appointment 21/4/16
 f Alice
 Go for yoga lessons Sat 10am 1w 31/5
 Do work Sunday 23:59 1w
