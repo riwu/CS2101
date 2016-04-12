@@ -38,5 +38,11 @@ f ru err
 f
 d 1-8
 Do work Sunday 23:59 1w
+Go out with girlfriend 1/4 3d
 Go for yoga lessons 2sat-31/5 10am-12:00 1w
-e 6 3d
+e 1 5d
+e 2 3w
+d 1
+d 1 r
+d 1
+d 1
