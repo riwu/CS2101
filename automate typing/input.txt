@@ -1,5 +1,6 @@
-125
+100
 listen to music
+watch movie
 meet friend nSaturday
 overseas trip 30/4
 meeting 3pm
@@ -34,6 +35,8 @@ f music
 f meet
 f meeting sports
 f ru err
-Go for yoga lessons Sat 10am 1w 31/5
+f
+d 1-8
 Do work Sunday 23:59 1w
+Go for yoga lessons 2sat-31/5 10am-12:00 1w
 e 6 3d
