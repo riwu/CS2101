@@ -37,6 +37,8 @@ f meeting sports
 f ru err
 f
 d 1-8
+s C:\Users\riwu\Desktop\Dropbox\Task
+s \
 Do work Sunday 23:59 1w
 Go out with girlfriend 1/4 3d
 Go for yoga lessons 2sat-31/5 10am-12:00 1w
