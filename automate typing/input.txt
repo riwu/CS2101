@@ -1,56 +1,46 @@
-0
-Graduate from nus 9/8/18
-Labor day 1/5
+50
+graduate from nus 9/8/18
+labor day 1/5
 CS2103 exam 23
-Demo today
-meet Shaun Sun
-Revise CS2103 nfri
-End of exam 3fri
-Dinner with James 7.30pm
-Watch movie tmr 8pm-10:30pm
+demo today
+meet Shaun mon
+revise CS2103 nfri
+dinner with James 7.30pm
+watch movie tmr 8pm-10:30pm
 ICT 7/7-15/7 8-17:50
-Read War and Peace
-Watch spiderman 3.
-e 1 mow lawn
-e 5 sat
-e 3 7pm
-e 2 today-2week
-e 4 6pm-10pm
-e 1 tmr-nyear 7pm-11pm
-e 3 sports meeting today-nweek 9am-5pm
+read War and Peace
+watch spiderman 3.
+e 11 read pride and prejudiced
+e 11
+e 11 sat
+e 4 7pm
+e 4 17 3pm
+e 6 22-26
+e 6 24
 c 1
-c 2
-d 2
-u
-r
-u
-d 4
-d 1,2,3-5
-u
-u
-d .
+c 1
+c 11
 d c
-d <1/5
-u
-u
-u
+d 1
+d 1-3
+d 1 3-4
+d <5/5
+d <=7/7
+d <=15/7
+CS2101 homework
+CS2103 homework 
+d .
 f r
-f music
 f meet
-f meeting sports
-f ru err
-f
-d 1-8
+f watc
+f nus graduate
+f mo wa
+f watch watch
 s C:\Users\riwu\Desktop\Dropbox\Task
-s \
+s /
+h
 Brush teeth 10pm d
 Jogging 5pm-6pm 2d
 Church sun w
 Judith birthday y
-Revise for exam nmon-nsun 8am-1pm d 
-e 1 5d
-e 2 3w
-d 1
-d 1 r
-d 1
-d 1
+Revise for exam nmon-nsun 8am-1pm d
