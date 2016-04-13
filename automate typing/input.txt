@@ -1,12 +1,16 @@
-100
-listen to music
-watch movie
-meet friend nSaturday
-overseas trip 30/4
-meeting 3pm
-read books today-nyear
-run errands Sunday 10:00-12:00
-work on proposal tmr-nmonth 09:30-17:45
+0
+Graduate from nus 9/8/18
+Labor day 1/5
+CS2103 exam 23
+Demo today
+meet Shaun Sun
+Revise CS2103 nfri
+End of exam 3fri
+Dinner with James 7.30pm
+Watch movie tmr 8pm-10:30pm
+ICT 7/7-15/7 8-17:50
+Read War and Peace
+Watch spiderman 3.
 e 1 mow lawn
 e 5 sat
 e 3 7pm
